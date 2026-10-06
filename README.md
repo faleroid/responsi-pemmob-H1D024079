@@ -7,7 +7,7 @@ terkini di Indonesia. Data diambil dari API publik BMKG.
 
 | Home Screen                    | Detail Screen                      |
 |--------------------------------|------------------------------------|
-| ![Home](screenshots/home.jpeg) | ![Detail](screenshots/detail.jpeg) |
+| ![Home](app/screenshots/home.jpeg) | ![Detail](app/screenshots/detail.jpeg) |
 
 ## Fitur
 

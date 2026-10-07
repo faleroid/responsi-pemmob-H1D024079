@@ -9,6 +9,9 @@ terkini di Indonesia. Data diambil dari API publik BMKG.
 |--------------------------------|------------------------------------|
 | ![Home](app/screenshots/home.jpeg) | ![Detail](app/screenshots/detail.jpeg) |
 
+## Link Youtube
+https://youtu.be/B-991u3JIGc
+
 ## Fitur
 
 - Daftar gempa terkini memakai LazyColumn (Tanggal, Magnitudo, Wilayah)
